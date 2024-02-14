@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.mywebsite{
+    font-weight: 1000;
+    background-color:rgb(218, 218, 218);
+   
+    margin-left:100px;
+    margin-right:100px;
+   
+    text-align: center;
+    
+}
+
+.about{
+    text-align:end;
+    padding-right: 110px;
+  
+}
+.para1{
+    border:2px solid rgb(14, 41, 14);
+    margin-left:100px;
+    margin-right:100px;
+    padding:10px;
+    margin-bottom: 40px;
+}
+.para2{
+    border:2px solid rgb(14, 41, 14);
+    margin-left:100px;
+    margin-right:100px;
+    padding:10px;
+}
